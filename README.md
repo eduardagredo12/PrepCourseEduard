@@ -1,2 +1,1 @@
-# PrepCourseEduard
-Este es un reporsitorio del modulo 2 de henry
+Este proyecto es una prueba de como crear un repostorio y clonarlo desde github a mi escritorio clocal.
